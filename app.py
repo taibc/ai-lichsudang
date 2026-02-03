@@ -1,0 +1,81 @@
+import requests
+from bs4 import BeautifulSoup
+import os
+from pypdf import PdfReader
+from openai import OpenAI
+from youtube_transcript_api import YouTubeTranscriptApi
+import re
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+def load_websites(urls: list[str]) -> str:
+    texts = []
+
+    for url in urls:
+        resp = requests.get(url, timeout=10)
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # bỏ script, style
+        for tag in soup(["script", "style", "noscript"]):
+            tag.decompose()
+
+        text = soup.get_text(separator=" ", strip=True)
+        texts.append(text)
+
+    return "\n".join(texts)
+
+def extract_video_id(url: str) -> str:
+    match = re.search(r"v=([^&]+)", url)
+    return match.group(1) if match else None
+
+def load_youtube(video_urls: list[str]) -> str:
+    texts = []
+
+    for url in video_urls:
+        video_id = extract_video_id(url)
+        if not video_id:
+            continue
+
+        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["vi", "en"])
+        content = " ".join([item["text"] for item in transcript])
+        texts.append(content)
+
+    return "\n".join(texts)
+
+context = build_context(
+    web_urls=[
+        "https://vnexpress.net/kinh-doanh",
+        "https://cafef.vn"
+    ],
+    youtube_urls=[
+        "https://www.youtube.com/watch?v=XXXXX"
+    ]
+)
+
+def build_context(web_urls=None, youtube_urls=None) -> str:
+    parts = []
+
+    if web_urls:
+        parts.append(load_websites(web_urls))
+
+    if youtube_urls:
+        parts.append(load_youtube(youtube_urls))
+
+    return "\n".join(parts)
+
+
+def ask_llm(context: str, question: str) -> str:
+    prompt = f"""
+Chỉ trả lời dựa trên thông tin sau:
+
+{context}
+
+Câu hỏi: {question}
+"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    return response.choices[0].message.content
