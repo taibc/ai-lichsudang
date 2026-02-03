@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import os
-from pypdf import PdfReader
 from openai import OpenAI
 from youtube_transcript_api import YouTubeTranscriptApi
 import re
