@@ -41,16 +41,6 @@ def load_youtube(video_urls: list[str]) -> str:
 
     return "\n".join(texts)
 
-context = build_context(
-    web_urls=[
-        "https://vnexpress.net/kinh-doanh",
-        "https://cafef.vn"
-    ],
-    youtube_urls=[
-        "https://www.youtube.com/watch?v=XXXXX"
-    ]
-)
-
 def build_context(web_urls=None, youtube_urls=None) -> str:
     parts = []
 
@@ -61,6 +51,18 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
         parts.append(load_youtube(youtube_urls))
 
     return "\n".join(parts)
+
+context = build_context(
+    web_urls=[
+        "https://vnexpress.net/kinh-doanh",
+        "https://cafef.vn"
+    ],
+    youtube_urls=[
+        "https://www.youtube.com/watch?v=XXXXX"
+    ]
+)
+
+
 
 
 def ask_llm(context: str, question: str) -> str:
