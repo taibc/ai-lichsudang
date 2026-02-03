@@ -35,9 +35,17 @@ def load_youtube(video_urls: list[str]) -> str:
         if not video_id:
             continue
 
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["vi", "en"])
-        content = " ".join([item["text"] for item in transcript])
-        texts.append(content)
+        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+
+        transcript = None
+        for t in transcripts:
+            if t.language_code in ["vi", "en"]:
+                transcript = t.fetch()
+                break
+
+        if transcript:
+            content = " ".join(item["text"] for item in transcript)
+            texts.append(content)
 
     return "\n".join(texts)
 
