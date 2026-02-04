@@ -23,9 +23,10 @@ def load_websites(urls: list[str]) -> str:
 
     return "\n".join(texts)
 
-def extract_video_id(url: str) -> str:
-    match = re.search(r"v=([^&]+)", url)
-    return match.group(1) if match else None
+def extract_video_id(url: str) -> str | None:
+    match = re.search(r"(v=|youtu.be/)([^&?/]+)", url)
+    return match.group(2) if match else None
+
 
 def load_youtube(video_urls: list[str]) -> str:
     texts = []
@@ -35,17 +36,18 @@ def load_youtube(video_urls: list[str]) -> str:
         if not video_id:
             continue
 
-        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+        try:
+            transcript = YouTubeTranscriptApi.get_transcript(
+                video_id, languages=["vi", "en"]
+            )
+            texts.append(" ".join(item["text"] for item in transcript))
 
-        transcript = None
-        for t in transcripts:
-            if t.language_code in ["vi", "en"]:
-                transcript = t.fetch()
-                break
+        except TranscriptsDisabled:
+            # Video không có subtitle → bỏ qua
+            continue
 
-        if transcript:
-            content = " ".join(item["text"] for item in transcript)
-            texts.append(content)
+        except Exception:
+            continue
 
     return "\n".join(texts)
 
