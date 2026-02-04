@@ -16,11 +16,11 @@ question = st.text_input("💬 Nhập câu hỏi của anh:")
 
 context = build_context(
     web_urls=[
-        "https://vnexpress.net/kinh-doanh",
-        "https://cafef.vn"
+        "https://dangcongsan.org.vn/",
+        
     ],
     youtube_urls=[
-        "https://www.youtube.com/watch?v=XXXXX"
+        "https://www.youtube.com/watch?v=EwqpeFvvzko&pp=0gcJCZEKAYcqIYzv"
     ]
 )
 
