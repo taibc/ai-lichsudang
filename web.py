@@ -16,8 +16,8 @@ question = st.text_input("💬 Nhập câu hỏi của anh:")
 
 context = build_context(
     web_urls=[
-        "https://dangcongsan.org.vn/tin-hoat-dong",
-        "https://dangcongsan.org.vn/tin-hoat-dong/tong-bi-thu-to-lam-du-gap-mat-can-bo-cong-an-cap-cao-qua-cac-thoi-ky.html?categoryId=1902448"
+        "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html"
+       
         
     ],
     youtube_urls=[
