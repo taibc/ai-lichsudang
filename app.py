@@ -68,16 +68,7 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
 
 
 def ask_llm(context: str, question: str) -> str:
-
-    context = build_context(
-    web_urls=[
-        "https://vnexpress.net/kinh-doanh",
-        "https://cafef.vn"
-    ],
-    youtube_urls=[
-        "https://www.youtube.com/watch?v=XXXXX"
-    ]
-)
+    
     
     prompt = f"""
 Chỉ trả lời dựa trên thông tin sau:
