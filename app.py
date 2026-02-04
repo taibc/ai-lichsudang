@@ -62,7 +62,14 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
 
     return "\n".join(parts)
 
-def context = build_context(
+ 
+
+
+
+
+def ask_llm(context: str, question: str) -> str:
+
+    context = build_context(
     web_urls=[
         "https://vnexpress.net/kinh-doanh",
         "https://cafef.vn"
@@ -71,11 +78,7 @@ def context = build_context(
         "https://www.youtube.com/watch?v=XXXXX"
     ]
 )
-
-
-
-
-def ask_llm(context: str, question: str) -> str:
+    
     prompt = f"""
 Chỉ trả lời dựa trên thông tin sau:
 
