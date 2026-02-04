@@ -1,5 +1,6 @@
 import streamlit as st
-from app import  ask_llm
+from app import  ask_llm, build_context
+
 
 st.set_page_config(
     page_title="AI LICH SU DANG",
