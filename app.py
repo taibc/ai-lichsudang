@@ -62,7 +62,7 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
 
     return "\n".join(parts)
 
-context = build_context(
+def context = build_context(
     web_urls=[
         "https://vnexpress.net/kinh-doanh",
         "https://cafef.vn"
