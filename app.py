@@ -64,7 +64,31 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
 
  
 
+def ask_llm_public(context: str, question: str) -> str:
+    
+    
+    prompt = f"""
+Bạn là một AI tra cứu thông tin KHÉP KÍN.
 
+QUY TẮC BẮT BUỘC:
+- CHỈ được sử dụng thông tin trong <CONTEXT>
+- TUYỆT ĐỐI KHÔNG sử dụng kiến thức bên ngoài
+- Nếu thông tin không có trong CONTEXT, hãy trả lời đúng nguyên văn:
+  "Không tìm thấy thông tin trong các nguồn đã cấu hình."
+
+<CONTEXT>
+{context}
+</CONTEXT>
+
+Câu hỏi: {question}
+"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    return response.choices[0].message.content
 
 
 def ask_llm(context: str, question: str) -> str:
