@@ -32,3 +32,4 @@ if st.button("Hỏi AI"):
             answer = ask_llm(context, question)
         st.success("Câu trả lời")
         st.write(answer)
+        st.text(context[:3000])
