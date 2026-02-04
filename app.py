@@ -64,7 +64,7 @@ def build_context(web_urls=None, youtube_urls=None) -> str:
 
  
 
-def ask_llm_public(context: str, question: str) -> str:
+def ask_llm(context: str, question: str) -> str:
     
     
     prompt = f"""
@@ -91,7 +91,7 @@ Câu hỏi: {question}
     return response.choices[0].message.content
 
 
-def ask_llm(context: str, question: str) -> str:
+def ask_llm_public(context: str, question: str) -> str:
     
     
     prompt = f"""
