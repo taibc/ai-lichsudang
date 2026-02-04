@@ -30,6 +30,7 @@ if st.button("Hỏi AI"):
     else:
         with st.spinner("AI đang suy nghĩ..."):
             answer = ask_llm(context, question)
+        st.text(context[:3000])
         st.success("Câu trả lời")
         st.write(answer)
-        st.text(context[:3000])
+       
