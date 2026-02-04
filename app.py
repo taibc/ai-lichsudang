@@ -1,4 +1,5 @@
 import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import os
 from openai import OpenAI
@@ -10,16 +11,40 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def load_websites(urls: list[str]) -> str:
     texts = []
 
-    for url in urls:
-        resp = requests.get(url, timeout=10)
-        soup = BeautifulSoup(resp.text, "html.parser")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
 
-        # bỏ script, style
-        for tag in soup(["script", "style", "noscript"]):
-            tag.decompose()
+        for url in urls:
+            try:
+                page.goto(url, wait_until="networkidle", timeout=30000)
 
-        text = soup.get_text(separator=" ", strip=True)
-        texts.append(text)
+                html = page.content()
+                soup = BeautifulSoup(html, "html.parser")
+
+                # remove noise
+                for tag in soup(["script", "style", "noscript"]):
+                    tag.decompose()
+
+                # TRY to focus on article-like content first
+                article = (
+                    soup.find("article")
+                    or soup.find("main")
+                    or soup.find("div", class_="detail-content")
+                )
+
+                if article:
+                    text = article.get_text(" ", strip=True)
+                else:
+                    text = soup.get_text(" ", strip=True)
+
+                if text:
+                    texts.append(text)
+
+            except Exception as e:
+                print(f"Failed to load {url}: {e}")
+
+        browser.close()
 
     return "\n".join(texts)
 
