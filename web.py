@@ -13,6 +13,16 @@ st.write("Chatbot trả lời **dựa trên các nguồn link trên mạng**")
 
 question = st.text_input("💬 Nhập câu hỏi của anh:")
 
+context = build_context(
+    web_urls=[
+        "https://vnexpress.net/kinh-doanh",
+        "https://cafef.vn"
+    ],
+    youtube_urls=[
+        "https://www.youtube.com/watch?v=XXXXX"
+    ]
+)
+
 if st.button("Hỏi AI"):
     if not question.strip():
         st.warning("Anh hãy nhập câu hỏi")
