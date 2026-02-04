@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from openai import OpenAI
-from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled
 import re
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
