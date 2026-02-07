@@ -34,6 +34,7 @@ def load_youtube(video_urls: list[str]) -> str:
     for url in video_urls:
         video_id = extract_video_id(url)
         if not video_id:
+            print("❌ Không extract được video_id:", url)
             continue
 
         try:
@@ -41,13 +42,10 @@ def load_youtube(video_urls: list[str]) -> str:
                 video_id, languages=["vi", "en"]
             )
             texts.append(" ".join(item["text"] for item in transcript))
+            print("✅ Loaded transcript for:", video_id)
 
-        except TranscriptsDisabled:
-            # Video không có subtitle → bỏ qua
-            continue
-
-        except Exception:
-            continue
+        except Exception as e:
+            print("❌ Failed to load transcript:", video_id, str(e))
 
     return "\n".join(texts)
 
