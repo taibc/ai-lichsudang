@@ -16,7 +16,8 @@ question = st.text_input("💬 Nhập câu hỏi của anh:")
 
 context = build_context(
     web_urls=[
-        "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html"
+        "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html",
+        "https://vnexpress.net/thoi-su/dai-hoi-dang-toan-quoc-lan-thu-14/van-kien"
        
         
     ],
@@ -31,8 +32,8 @@ if st.button("Hỏi AI"):
     else:
         with st.spinner("AI đang suy nghĩ..."):
             answer = ask_llm(context, question)
-        print(context[:3000])
-        st.text(context[:3000])
+        #print(context[:3000])
+        #st.text(context[:3000])
         st.success("Câu trả lời")
         st.write(answer)
        
