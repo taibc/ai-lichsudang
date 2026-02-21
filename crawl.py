@@ -15,13 +15,14 @@ START_URLS = [
     "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh.html",
     "https://hochiminh.vn/cuoc-doi-su-nghiep",
     "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh",
-    "https://dangcongsan.vn/xay-dung-dang",
-    "https://dangcongsan.vn/tin-hoat-dong"
+   # "https://dangcongsan.vn/xay-dung-dang",
+   # "https://dangcongsan.vn/tin-hoat-dong"
 ]
 
 DYNAMIC_DOMAINS = [
     "hochiminh.vn",
-    "dangcongsan.vn"
+    "tapchilichsudang.vn"
+   # "dangcongsan.vn"
 ]
 
 ALLOWED_DOMAINS = [
