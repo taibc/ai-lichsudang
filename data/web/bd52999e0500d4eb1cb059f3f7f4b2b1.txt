@@ -1,13 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/hoc-va-lam-theo-bac/hoc-va-lam-theo-bac",
-  "crawl_time": "2026-02-21 18:28:21"
+  "url": "https://hochiminh.vn/ho-chi-minh-va-the-gioi/hoat-dong-quoc-te-cua-ho-chi-minh",
+  "crawl_time": "2026-02-21 18:27:22"
 }
 
 ----- CONTENT -----
 
-Học và làm theo Bác
+Hoạt động quốc tế của Hồ Chí Minh
 
 
 
@@ -92,11 +92,11 @@ Thứ bảy, 21/02/2026
  
 :
  
-28
+27
  
 :
  
-20
+21
  
  
  
@@ -160,7 +160,7 @@ Làm theo Bác từ những việc thiết thực
  
  
  
-Học và làm theo Bác
+Hồ Chí Minh và thế giới
  
 
 
@@ -168,15 +168,11 @@ Học và làm theo Bác
 
 
  
-Di chúc
+Hoạt động quốc tế của Hồ Chí Minh
  
  
  
-Văn bản
- 
- 
- 
-Học và làm theo Bác
+Bạn bè quốc tế với Hồ Chí Minh
  
  
  
@@ -184,7 +180,7 @@ Học và làm theo Bác
 
 
  
-Những nữ giáo viên học tập và làm theo Bác
+“Nhà ở cũ của Hồ Chí Minh”- nơi chứng kiến tình hữu nghị Việt-Trung
  
  
  
@@ -196,7 +192,7 @@ Những nữ giáo viên học tập và làm theo Bác
  
 
 
-  Thực hiện Kết luận số 01-KL/TW của Bộ Chính trị về tiếp tục thực hiện Chỉ thị số 05-CT/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, ngành giáo dục và đào tạo Thanh Hóa đã cụ thể hóa bằng nhiều phong trào thi đua yêu nước gắn với nhiệm vụ chuyên môn. Từ đó, nhiều nữ ... 
+  Một trong những địa điểm gắn liền với Người tại Trung Quốc là “Nhà khách Nam Dương,” nơi Người từng lưu trú và làm việc trong những năm tháng đầy gian khó của cuộc kháng chiến chống thực dân Pháp. 
  
 Xem chi tiết
  
@@ -204,7 +200,7 @@ Xem chi tiết
  
  
  
-Thanh Hóa làm theo lời dạy của Chủ tịch Hồ Chí Minh: “Thi đua là yêu nước, yêu nước thì phải thi đua”
+Theo chân Bác tại Milan, Italy
  
  
  
@@ -216,7 +212,7 @@ Thanh Hóa làm theo lời dạy của Chủ tịch Hồ Chí Minh: “Thi đua 
  
 
 
-  Ngay từ những năm tháng đầu tiên chống thực dân Pháp tái xâm lược, trong muôn vàn khó khăn của đất nước, ngày 11/6/1948, Chủ tịch Hồ Chí Minh đã ra Lời kêu gọi thi đua ái quốc. Lời kêu gọi được truyền đi như lời hiệu triệu, thôi thúc đồng bào và chiến sĩ cả nước ra sức thi đua, đóng góp sức người, ... 
+  Thật khó xác định ai là người Việt Nam đầu tiên đặt chân đến Italy, nhưng chắc chắn có một người mà sử sách đã ghi chép và được cả hai nước ghi nhận là người đặt nền móng cho tình hữu nghị giữa hai dân tộc - đó chính là Chủ tịch Hồ Chí Minh. 
  
 Xem chi tiết
  
@@ -224,7 +220,7 @@ Xem chi tiết
  
  
  
-Nhân lên những nghĩa cử cao đẹp
+Lớp trẻ kiều bào ở Thái Lan tự hào là con cháu Bác Hồ
  
  
  
@@ -236,7 +232,7 @@ Nhân lên những nghĩa cử cao đẹp
  
 
 
-  Với mong muốn giúp đỡ những người nghèo khó, 18 năm qua, chị Trần Thị Ly (SN 1973), Bí thư Chi bộ thôn Trường Kỳ, Chủ tịch Hội Chữ thập đỏ lâm thời xã Vĩnh Hoàng, tỉnh Quảng Trị đã vận động, hỗ trợ hàng trăm hộ gia đình có hoàn cảnh khó khăn, ốm đau, tai nạn, rủi ro đột xuất trên địa bàn, đồng thời ... 
+  Cộng đồng Việt kiều ở Thái Lan ngày nay là lớp trẻ, đa số không biết tiếng Việt mang quốc tịch Thái Lan, nhưng vẫn tự hào mình là người Việt Nam, kính trọng Bác Hồ, tự hào mình là cháu Bác Hồ. 
  
 Xem chi tiết
  
@@ -244,7 +240,7 @@ Xem chi tiết
  
  
  
-Lan tỏa việc học và làm theo Bác ở điện lực Lai Châu
+Bác Hồ làm báo trên đất Pháp
  
  
  
@@ -256,7 +252,7 @@ Lan tỏa việc học và làm theo Bác ở điện lực Lai Châu
  
 
 
-  Thấm nhuần lời dạy của Chủ tịch Hồ Chí Minh với ngành điện, những năm qua, Đảng bộ Công ty Điện lực Lai Châu đã biến việc học tập và làm theo tư tưởng, đạo đức, phong cách của Người thành việc làm thường xuyên, tự giác. Từ đó, lan tỏa tinh thần đổi mới, sáng tạo trong lao động, góp phần nâng cao ... 
+  Các tác phẩm báo chí của Nguyễn Ái Quốc trên đất Pháp thể hiện tinh thần phê phán chủ nghĩa đế quốc, thực dân Pháp và đòi tự do, bình đẳng cho người lao động. 
  
 Xem chi tiết
  
@@ -264,7 +260,7 @@ Xem chi tiết
  
  
  
-Nữ cán bộ “sớm, sắc, chắc, sâu”
+Hành trình hy vọng của người thanh niên yêu nước
  
  
  
@@ -276,7 +272,7 @@ Nữ cán bộ “sớm, sắc, chắc, sâu”
  
 
 
-  Gần 25 năm gắn bó với công tác tuyên giáo, bà Huỳnh Thị Mỹ Phương - Phó trưởng Phòng Lý luận chính trị, lịch sử Đảng, Ban Tuyên giáo và Dân vận Tỉnh ủy vẫn giữ cho mình tác phong làm việc “sớm, sắc, chắc, sâu”. Ở bà sự tận tụy và tinh thần học Bác hiện lên từ những việc nhỏ, bền bỉ và chân thành. 
+  Ngày 5-6-1911, cách đây vừa đúng 110 năm, tại Bến cảng Nhà Rồng lịch sử, người thanh niên yêu nước Nguyễn Tất Thành với lòng yêu nước sâu sắc, đã quyết tâm ra đi tìm đường cứu đất nước khỏi ách nô lệ của thực dân, đế quốc. Nguyễn Tất Thành lấy tên là Văn Ba, nhận làm phụ bếp cho tàu Amiral Latouche ... 
  
 Xem chi tiết
  
@@ -284,7 +280,7 @@ Xem chi tiết
  
  
  
-Làm theo Bác, thắp sáng biên cương
+“Tôi chỉ có một mong ước là sớm trở về Tổ quốc tôi”
  
  
  
@@ -296,7 +292,7 @@ Làm theo Bác, thắp sáng biên cương
  
 
 
-  Nơi biên giới xa xôi, giữa mưa rừng, gió núi, những người lính quân hàm xanh của Bộ đội Biên phòng (BĐBP) tỉnh Quảng Trị vẫn ngày ngày lặng thầm bám trụ, “ăn cùng dân, ở cùng dân, làm cùng dân”. Cán bộ, chiến sĩ BĐBP học Bác không phải bằng lời hô hào lớn lao, mà bằng những việc làm cụ thể, giản ... 
+  Là một người tiên tri tiên lượng, nhà dự báo chiến lược thiên tài, sau khi dự Đại hội VII Quốc tế Cộng sản (7/1935), trả lời nhà văn I.Êrenbua khi được hỏi cảm nghĩ về mùa xuân này, Nguyễn Ái  Quốc nói: “Tôi chỉ có một mong ước là sớm trở về Tổ quốc tôi”(1)... 
  
 Xem chi tiết
  
@@ -304,7 +300,7 @@ Xem chi tiết
  
  
  
-Xứng danh phụ nữ kiệm cần
+Hồ Chí Minh - Người bắc nhịp cầu hữu nghị giữa hai dân tộc Việt-Anh
  
  
  
@@ -316,7 +312,7 @@ Xứng danh phụ nữ kiệm cần
  
 
 
-  Những năm qua, học và làm theo gương Bác, các cấp hội phụ nữ trong tỉnh Lạng Sơn đã nhân rộng các mô hình tiết kiệm từ gia đình đến cộng đồng, tạo nguồn quỹ để hỗ trợ hội viên có hoàn cảnh khó khăn. 
+  Không chỉ có ý nghĩa với việc hình thành tư tưởng Hồ Chí Minh, quãng thời gian 4 năm ở Anh của Nguyễn Tất Thành tạo tiền đề cho mối quan hệ hữu nghị giữa người dân Việt Nam và Anh ngày nay. 
  
 Xem chi tiết
  
@@ -324,7 +320,7 @@ Xem chi tiết
  
  
  
-Lan tỏa việc học tập và làm theo Bác
+Có một người thợ làm bánh Việt Nam trên đất Mỹ
  
  
  
@@ -336,7 +332,7 @@ Lan tỏa việc học tập và làm theo Bác
  
 
 
-  Thời gian qua, việc học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh ở phường Đông Hà, tỉnh Quảng Trị được thường xuyên đẩy mạnh, lan tỏa mạnh mẽ. Qua đó, góp phần quan trọng vào phát triển kinh tế-xã hội, bảo đảm quốc phòng-an ninh, xây dựng Đảng và củng cố hệ thống chính trị địa ... 
+  Trong hành trình tìm đường cứu nước đầu thế kỷ XX, Bác Hồ đã đến nhiều nơi, đã làm nhiều nghề, trong đó Người từng dừng chân tại khách sạn Omni Parker House ở Boston, thủ phủ bang Massachusetts, nước Mỹ. 
  
 Xem chi tiết
  
@@ -344,7 +340,7 @@ Xem chi tiết
  
  
  
-Thầy giáo - nông dân sản xuất giỏi
+Hồ Chí Minh đến với V.L.Lênin
  
  
  
@@ -356,7 +352,7 @@ Thầy giáo - nông dân sản xuất giỏi
  
 
 
-  Thầy giáo Trần Minh Dương sinh năm 1978, ở Ấp Nguyễn Huế, xã Biển Bạch, tỉnh Cà Mau là tấm gương tiêu biểu trong phong trào học và làm theo Bác, vừa tận tâm “gieo chữ” trên bục giảng, vừa chăm lo phát triển kinh tế, trở thành thầy giáo "nông dân sản xuất giỏi" của địa phương. 
+  Khi Nguyễn Ái Quốc sang Nga thì V.I.Lênin đã mất, Người không gặp được V.I.Lênin. Nhưng trong quá trình nghiên cứu để tìm con đường cách mạng, Người phát hiện ra muốn cứu nước thì phải đến với V.I.Lênin. 
  
 Xem chi tiết
  
@@ -364,7 +360,7 @@ Xem chi tiết
  
  
  
-Tuổi trẻ Công an thực hiện 6 điều Bác Hồ dạy
+“Cách mạng Tháng Mười Nga vĩ đại mở ra con đường giải phóng cho các dân tộc”
  
  
  
@@ -376,7 +372,7 @@ Tuổi trẻ Công an thực hiện 6 điều Bác Hồ dạy
  
 
 
-  Đoàn TNCS Hồ Chí Minh Công an tỉnh Sơn La gồm 10 tổ chức cơ sở đoàn với hơn 1.280 đoàn viên. Thực hiện phong trào “Thanh niên công an nhân dân học tập, thực hiện 6 điều Bác Hồ dạy”, tuổi trẻ Công an Sơn La đã phát huy tinh thần xung kích, sáng tạo, tình nguyện trên các lĩnh vực, khẳng định vai trò, ... 
+  (HCM.VN) - Nhân dịp kỷ niệm lần thứ 50 ngày thắng lợi của cuộc Cách mạng Tháng Mười Nga vĩ đại (7/11/1917 - 7/11/1967), Chủ tịch Hồ Chí Minh đã viết bài “Cách mạng Tháng Mười Nga vĩ đại mở ra con đường giải phóng cho các dân tộc” cho Báo Pravđa (Liên Xô cũ), Người không những khẳng định ý nghĩa ... 
  
 Xem chi tiết
  
@@ -384,7 +380,7 @@ Xem chi tiết
  
  
  
-Chi bộ bản Pặt Pháy học và làm theo Bác
+Chuyến thăm Hungary năm 1957 của Chủ tịch Hồ Chí Minh
  
  
  
@@ -396,7 +392,7 @@ Chi bộ bản Pặt Pháy học và làm theo Bác
  
 
 
-  Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, Chi bộ bản Pặt Pháy, xã Púng Bánh đã lựa chọn những việc làm cụ thể, thiết thực, phù hợp với tình hình thực tế ở cơ sở, đưa việc học và làm theo Bác lan tỏa mạnh mẽ, trở thành việc làm thường xuyên của đảng viên, nhân dân trong bản. 
+  Việt Nam và Hungary thiết lập quan hệ ngoại giao ngày 03/02/1950. Hungary đã dành cho Việt Nam sự ủng hộ, giúp đỡ quý báu trong sự nghiệp bảo vệ và xây dựng đất nước. Người đặt nền móng cho mối quan hệ hữu nghị đó chính là Chủ tịch Hồ Chí Minh. Tháng 8/1957, Chủ tịch Hồ Chí Minh đã có chuyến thăm ... 
  
 Xem chi tiết
  
@@ -404,7 +400,7 @@ Xem chi tiết
  
  
  
-Bác Hồ trong cảm xúc mỹ thuật của họa sĩ Nguyễn Đình Thi
+Chủ tịch Hồ Chí Minh với báo chí quốc tế
  
  
  
@@ -416,7 +412,7 @@ Bác Hồ trong cảm xúc mỹ thuật của họa sĩ Nguyễn Đình Thi
  
 
 
-  Hình tượng Chủ tịch Hồ Chí Minh - cuộc đời và sự nghiệp cách mạng của Người - luôn là nguồn cảm hứng bất tận trong sáng tác nghệ thuật. Với họa sĩ Nguyễn Đình Thi, nguyên Chủ tịch Hội Liên hiệp Văn học Nghệ thuật tỉnh Yên Bái (trước sáp nhập), mỗi tác phẩm về Bác đều được thể hiện bằng những nét vẽ ... 
+  Chủ tịch Hồ Chí Minh không những là người sáng lập và gây dựng nên nền báo chí cách mạng Việt Nam mà bản thân Người còn là một nhà báo, một đối tác gần gụi của báo chí trong nước và thế giới. Có lẽ, trong số các nhà lãnh đạo các nước xã hội chủ nghĩa thời bấy giờ, không nhiều vị tiếp xúc với báo ... 
  
 Xem chi tiết
  
@@ -426,9 +422,6 @@ Xem chi tiết
  
 1
 2
-3
-4
-5
  
  
  

@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/tim-hieu-tu-tuong-ho-chi-minh-ve-giao-duc.html",
-  "crawl_time": "2026-02-21 17:51:07"
+  "crawl_time": "2026-02-21 18:21:44"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ TS NGUYỄN THỊ LỆ THỦY**
 
 
 24/10/2025 - 03:04 PM
- - 2.108 lượt xem
+ - 2.109 lượt xem
 
 
 
@@ -1038,7 +1038,7 @@ Thêm một số ý kiến liên quan đến quan điểm của Hồ Chí Minh v
 
 
 
-27/09/2025 - 1.288 lượt xem
+27/09/2025 - 1.289 lượt xem
         
 
 
@@ -1772,4 +1772,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 62 - Tổng truy cập: 4.147.823
+Online: 34 - Tổng truy cập: 4.147.979

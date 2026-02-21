@@ -1,13 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/tu-lieu-audio",
-  "crawl_time": "2026-02-21 18:29:01"
+  "url": "https://hochiminh.vn/tac-pham-cua-ho-chi-minh/ho-chi-minh-toan-tap?categoryId=102001160",
+  "crawl_time": "2026-02-21 18:26:04"
 }
 
 ----- CONTENT -----
 
-Tư liệu Audio
+Hồ Chí Minh toàn tập
 
 
 
@@ -84,73 +84,41 @@ Tư liệu Audio
  
  
  
-Thứ bảy, 21/02/2026
  
- - 
  
-18
- 
-:
- 
-29
- 
-:
- 
-01
- 
+
+
  
  
  
  
  
  
-Đoàn đại biểu thanh niên Việt Nam viết tiếp câu chuyện hữu nghị 'Theo dấu chân Bác Hồ'
-
-
+Tác phẩm của
+Hồ Chí Minh
  
-Mùa xuân Pác Bó - Người về thắp lửa lòng dân theo cách mạng
-
-
  
-Hơn 70 đầu sách về Chủ tịch Hồ Chí Minh tại Lễ hội Đường sách Tết 2026
-
-
  
-Sơn La: Lan tỏa việc học và làm theo Bác
-
-
  
-Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh tại Nhà 67
 
 
+Hồ Chí Minh toàn tập
  
-Lãnh đạo Đảng, Nhà nước, Quân đội vào Lăng viếng Chủ tịch Hồ Chí Minh
-
-
  
-Sơn La: Học Bác làm tốt công tác dân vận
 
 
+Hồ Chí Minh tuyển tập
  
-Thầy Hà Trọng Bình - Dấu ấn học và làm theo lời Bác từ những việc làm cụ thể
-
-
  
-Xúc động khi đến thăm nơi Bác Hồ từng ở trọ và biên soạn tập thơ "Nhật ký trong tù" tại Liễu Châu, Trung Quốc
 
 
+Tác phẩm của Hồ Chí Minh
  
-Liên Sơn: Học Bác trở thành động lực phát triển
-
-
  
-Học Bác xây dựng cuộc sống ấm no
 
 
+Giới thiệu tác phẩm
  
-Làm theo Bác từ những việc thiết thực
-
-
  
  
  
@@ -158,78 +126,27 @@ Làm theo Bác từ những việc thiết thực
 
  
  
-Tư liệu Audio
  
-
-
  
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
+Hồ Chí Minh Toàn tập - Tập 1
  
  
  
  
-  Hồ Chí Minh, Chủ tịch lâm thời nước Việt Nam dân chủ cộng hòa, đọc bản “Tuyên ngôn độc lập” ngày 2/9/1945 tại Quảng trường Ba Đình 
  
- Đã xem: 306
  
  
- 
- 
- 
- 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Chủ tịch Hồ Chí Minh đọc lời kêu gọi toàn quốc kháng chiến (ngày 19/12/1946) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Chủ tịch Hồ Chí Minh nói chuyện tại cuộc mít tinh của nhân dân thủ đô Hà Nội sau khi kỳ họp Quốc hội khóa I thông qua bản Hiến pháp mới (ngày 31/12/1959) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Ngày 5/1/1960, tại Thủ đô Hà Nội, Chủ tịch Hồ Chí Minh đã phát biểu tại Lễ kỷ niệm 30 năm thành lập Đảng Cộng sản Việt Nam (3/2/1930 - 3/2/1960) 
  
  
  
+Hồ Chí Minh Toàn tập - Tập 2
  
  
  
@@ -237,59 +154,12 @@ Tư liệu Audio
  
  
  
- 
-  Chủ tịch Hồ Chí Minh nói chuyện tại Đại hội Phụ nữ toàn quốc lần thứ III (ngày 9/3/1960) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc chống Mỹ cứu nước (ngày 17/7/1966) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Bác Hồ chúc mừng năm mới Mậu Thân 1968 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Bác Hồ chúc mừng năm mới Kỷ Dậu 1969 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời kêu gọi “Chống Mỹ cứu nước” 1966 
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 3
  
  
  
@@ -297,10 +167,12 @@ Tư liệu Audio
  
  
  
+
+
  
-  Hồ Chủ tịch chúc mừng năm mới 1955 
  
  
+Hồ Chí Minh Toàn tập - Tập 4
  
  
  
@@ -308,10 +180,12 @@ Tư liệu Audio
  
  
  
+
+
  
  
-  Hồ Chủ tịch chúc Tết năm 1956 
  
+Hồ Chí Minh Toàn tập - Tập 5
  
  
  
@@ -319,10 +193,12 @@ Tư liệu Audio
  
  
  
+
+
  
  
  
-  Lời chúc mừng năm mới 1957 
+Hồ Chí Minh Toàn tập - Tập 6
  
  
  
@@ -330,75 +206,90 @@ Tư liệu Audio
  
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 7
  
-  Lời chúc mừng năm mới 1958 
  
  
  
  
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 8
  
  
-  Lời chúc Tết đồng bào nhân dịp đầu đầu xuân Tân Sửu 1961 
  
  
  
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 9
  
  
  
-  Hồ Chủ tịch chúc Xuân Nhâm Dần 1962 
  
  
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 10
  
  
  
  
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Quý Mão 1963 
  
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 11
  
  
  
  
  
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Giáp Thìn 1964 
  
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 12
  
  
  
  
  
  
-  Lời chúc mừng năm mới 1967 
  
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 13
  
  
  
@@ -406,10 +297,12 @@ Tư liệu Audio
  
  
  
-  Lời chúc mừng năm mới 1968 
+
+
  
  
  
+Hồ Chí Minh Toàn tập - Tập 14
  
  
  
@@ -417,17 +310,14 @@ Tư liệu Audio
  
  
  
+
+
  
-  Diễn văn khai mạc Đại hội đại biểu toàn quốc lần III của Đảng Lao động Việt Nam 1960 (phần I) 
  
  
+Hồ Chí Minh Toàn tập - Tập 15
  
  
-1
-2
-3
-4
-5
  
  
  

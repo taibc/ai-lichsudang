@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh.html",
-  "crawl_time": "2026-02-21 17:51:25"
+  "crawl_time": "2026-02-21 18:21:27"
 }
 
 ----- CONTENT -----
@@ -648,7 +648,7 @@ Thêm một số ý kiến liên quan đến quan điểm của Hồ Chí Minh v
 
 
 
-27/09/2025 - 1.288 lượt xem
+27/09/2025 - 1.289 lượt xem
         
 
 
@@ -682,7 +682,7 @@ Quan điểm của Hồ Chí Minh về giai cấp nông dân và sự vận dụ
 
 
 
-26/08/2025 - 1.768 lượt xem
+26/08/2025 - 1.769 lượt xem
         
 
 
@@ -1571,4 +1571,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 68 - Tổng truy cập: 4.147.829
+Online: 34 - Tổng truy cập: 4.147.970

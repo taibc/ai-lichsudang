@@ -1,13 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/tac-pham-cua-ho-chi-minh/ho-chi-minh-tuyen-tap?categoryId=102001159",
-  "crawl_time": "2026-02-21 18:28:07"
+  "url": "https://hochiminh.vn/tac-pham-cua-ho-chi-minh/gioi-thieu-tac-pham?categoryId=102001157",
+  "crawl_time": "2026-02-21 18:26:39"
 }
 
 ----- CONTENT -----
 
-Hồ Chí Minh tuyển tập
+Giới thiệu tác phẩm
 
 
 
@@ -128,39 +128,12 @@ Giới thiệu tác phẩm
  
  
  
-
-
- 
- 
- 
-Hồ Chí Minh tuyển tập (1954 - 1969) - Tập 3 (Nxb Chính trị quốc gia - 2002)
- 
- 
- 
- 
- 
- 
  
 
 
  
  
- 
-Hồ Chí Minh tuyển tập (1945 - 1954) - Tập 2 (Nxb Chính trị quốc gia - 2002)
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-Hồ Chí Minh tuyển tập (1919 - 1945) - Tập 1 (Nxb Chính trị quốc gia - 2002)
- 
+50 năm tác phẩm Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân - Giá trị lý luận và thực tiễn
  
  
  

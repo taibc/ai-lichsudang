@@ -1,21 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/tu-lieu-audio",
-  "crawl_time": "2026-02-21 18:29:01"
+  "url": "https://hochiminh.vn/audio/ho-chi-minh-chu-tich-lam-thoi-nuoc-viet-nam-dan-chu-cong-hoa-doc-ban-tuyen-ngon-doc-lap-ngay-2-9-1945-tai-quang-truong-1",
+  "crawl_time": "2026-02-21 18:29:30"
 }
 
 ----- CONTENT -----
 
-Tư liệu Audio
-
-
-
-
-
-
-
-
+Hồ Chí Minh, Chủ tịch lâm thời nước Việt Nam dân chủ cộng hòa, đọc bản “Tuyên ngôn độc lập” ngày ...
 
 
 
@@ -96,7 +88,7 @@ Thứ bảy, 21/02/2026
  
 :
  
-01
+30
  
  
  
@@ -158,11 +150,25 @@ Làm theo Bác từ những việc thiết thực
 
  
  
+ 
 Tư liệu Audio
  
+ 
+ 
+ 
+ Trang chủ
+ 
+ 
+ 
+Tư liệu Audio
+ 
+ 
+ 
+ 
 
 
  
+ 
 
 
  
@@ -172,20 +178,19 @@ Tư liệu Audio
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
   Hồ Chí Minh, Chủ tịch lâm thời nước Việt Nam dân chủ cộng hòa, đọc bản “Tuyên ngôn độc lập” ngày 2/9/1945 tại Quảng trường Ba Đình 
  
- Đã xem: 306
+ Đã xem: 0
  
+ 
+
+
+ 
+ 
+ 
+Tư liệu âm thanh khác
  
  
  
@@ -202,10 +207,10 @@ Tư liệu Audio
  
  
  
-  Chủ tịch Hồ Chí Minh đọc lời kêu gọi toàn quốc kháng chiến (ngày 19/12/1946) 
  
  
  
+Chủ tịch Hồ Chí Minh đọc lời kêu gọi toàn quốc kháng chiến (ngày 19/12/1946)
  
  
  
@@ -214,7 +219,6 @@ Tư liệu Audio
  
  
  
-  Chủ tịch Hồ Chí Minh nói chuyện tại cuộc mít tinh của nhân dân thủ đô Hà Nội sau khi kỳ họp Quốc hội khóa I thông qua bản Hiến pháp mới (ngày 31/12/1959) 
  
  
  
@@ -222,11 +226,11 @@ Tư liệu Audio
  
  
  
+Chủ tịch Hồ Chí Minh nói chuyện tại cuộc mít tinh của nhân dân thủ đô Hà Nội sau khi kỳ họp Quốc hội khóa I thông qua bản Hiến pháp mới (ngày 31/12/1959)
  
  
  
  
-  Ngày 5/1/1960, tại Thủ đô Hà Nội, Chủ tịch Hồ Chí Minh đã phát biểu tại Lễ kỷ niệm 30 năm thành lập Đảng Cộng sản Việt Nam (3/2/1930 - 3/2/1960) 
  
  
  
@@ -238,7 +242,7 @@ Tư liệu Audio
  
  
  
-  Chủ tịch Hồ Chí Minh nói chuyện tại Đại hội Phụ nữ toàn quốc lần thứ III (ngày 9/3/1960) 
+Ngày 5/1/1960, tại Thủ đô Hà Nội, Chủ tịch Hồ Chí Minh đã phát biểu tại Lễ kỷ niệm 30 năm thành lập Đảng Cộng sản Việt Nam (3/2/1930 - 3/2/1960)
  
  
  
@@ -250,11 +254,11 @@ Tư liệu Audio
  
  
  
-  Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc chống Mỹ cứu nước (ngày 17/7/1966) 
  
  
  
  
+Chủ tịch Hồ Chí Minh nói chuyện tại Đại hội Phụ nữ toàn quốc lần thứ III (ngày 9/3/1960)
  
  
  
@@ -262,7 +266,6 @@ Tư liệu Audio
  
  
  
-  Bác Hồ chúc mừng năm mới Mậu Thân 1968 
  
  
  
@@ -271,10 +274,10 @@ Tư liệu Audio
  
  
  
+Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc chống Mỹ cứu nước (ngày 17/7/1966)
  
  
  
-  Bác Hồ chúc mừng năm mới Kỷ Dậu 1969 
  
  
  
@@ -286,8 +289,8 @@ Tư liệu Audio
  
  
  
-  Lời kêu gọi “Chống Mỹ cứu nước” 1966 
  
+Bác Hồ chúc mừng năm mới Mậu Thân 1968
  
  
  
@@ -298,19 +301,18 @@ Tư liệu Audio
  
  
  
-  Hồ Chủ tịch chúc mừng năm mới 1955 
  
  
  
  
  
+Bác Hồ chúc mừng năm mới Kỷ Dậu 1969
  
  
  
  
  
  
-  Hồ Chủ tịch chúc Tết năm 1956 
  
  
  
@@ -320,9 +322,9 @@ Tư liệu Audio
  
  
  
+Lời kêu gọi “Chống Mỹ cứu nước” 1966
  
  
-  Lời chúc mừng năm mới 1957 
  
  
  
@@ -334,9 +336,9 @@ Tư liệu Audio
  
  
  
-  Lời chúc mừng năm mới 1958 
  
  
+Hồ Chủ tịch chúc mừng năm mới 1955
  
  
  
@@ -346,19 +348,18 @@ Tư liệu Audio
  
  
  
-  Lời chúc Tết đồng bào nhân dịp đầu đầu xuân Tân Sửu 1961 
  
  
  
  
  
  
+Hồ Chủ tịch chúc Tết năm 1956
  
  
  
  
  
-  Hồ Chủ tịch chúc Xuân Nhâm Dần 1962 
  
  
  
@@ -369,8 +370,8 @@ Tư liệu Audio
  
  
  
+Lời chúc mừng năm mới 1957
  
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Quý Mão 1963 
  
  
  
@@ -382,10 +383,10 @@ Tư liệu Audio
  
  
  
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Giáp Thìn 1964 
  
  
  
+Lời chúc mừng năm mới 1958
  
  
  
@@ -394,7 +395,6 @@ Tư liệu Audio
  
  
  
-  Lời chúc mừng năm mới 1967 
  
  
  
@@ -402,11 +402,11 @@ Tư liệu Audio
  
  
  
+Lời chúc Tết đồng bào nhân dịp đầu đầu xuân Tân Sửu 1961
  
  
  
  
-  Lời chúc mừng năm mới 1968 
  
  
  
@@ -418,7 +418,104 @@ Tư liệu Audio
  
  
  
-  Diễn văn khai mạc Đại hội đại biểu toàn quốc lần III của Đảng Lao động Việt Nam 1960 (phần I) 
+Hồ Chủ tịch chúc Xuân Nhâm Dần 1962
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lời chúc Tết đồng bào nhân dịp đầu Xuân Quý Mão 1963
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lời chúc Tết đồng bào nhân dịp đầu Xuân Giáp Thìn 1964
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lời chúc mừng năm mới 1967
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lời chúc mừng năm mới 1968
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diễn văn khai mạc Đại hội đại biểu toàn quốc lần III của Đảng Lao động Việt Nam 1960 (phần I)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diễn văn khai mạc Đại hội đại biểu toàn quốc lần III của Đảng Lao động Việt Nam 1960 (phần II)
+ 
  
  
  
@@ -430,10 +527,6 @@ Tư liệu Audio
 5
  
  
- 
- 
-
-
 
 
  

@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/van-dung-tu-tuong-ho-chi-minh-ve-doc-lap-dan-toc-va-chu-nghia-xa-hoi-trong-cong-cuoc-doi-moi-dat-nuoc-hien-nay.html",
-  "crawl_time": "2026-02-21 17:26:20"
+  "crawl_time": "2026-02-21 18:21:41"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ Trường Đào tạo cán bộ Nguyễn Văn Cừ, tỉnh Quảng Ninh
 
 
 12/06/2025 - 11:37 AM
- - 27.642 lượt xem
+ - 27.645 lượt xem
 
 
 
@@ -994,7 +994,7 @@ Tầm nhìn của Nguyễn Ái Quốc trong lựa chọn Cao Bằng khi trở v�
 
 
 
-28/01/2026 - 448 lượt xem
+28/01/2026 - 449 lượt xem
         
 
 
@@ -1048,7 +1048,7 @@ Hội phản đế đồng minh hiện thực hóa tư tưởng Hồ Chí Minh v
 
 
 
-05/11/2025 - 994 lượt xem
+05/11/2025 - 995 lượt xem
         
 
 
@@ -1075,7 +1075,7 @@ Tìm hiểu tư tưởng Hồ Chí Minh về giáo dục
 
 
 
-24/10/2025 - 2.107 lượt xem
+24/10/2025 - 2.109 lượt xem
         
 
 
@@ -1809,4 +1809,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 126 - Tổng truy cập: 4.147.670
+Online: 33 - Tổng truy cập: 4.147.978

@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/nghien-cuu-tu-tuong-dao-duc-ho-chi-minh/van-dung-tu-tuong-ho-chi-minh-trong-xay-dung-doi-ngu-can-bo-nguoi-dan-toc-thieu-so-o-nghe-an-12445?categoryId=102000008",
-  "crawl_time": "2026-02-21 17:54:47"
+  "crawl_time": "2026-02-21 18:25:45"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-54
+25
  
 :
  
-46
+44
  
  
  

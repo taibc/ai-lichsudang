@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/tin-tuc/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-tai-nha-67.html",
-  "crawl_time": "2026-02-21 17:55:08"
+  "crawl_time": "2026-02-21 18:25:52"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-55
+25
  
 :
  
-08
+52
  
  
  

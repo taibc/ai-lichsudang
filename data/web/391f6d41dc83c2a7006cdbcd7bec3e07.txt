@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh/p-7.html",
-  "crawl_time": "2026-02-21 17:50:33"
+  "crawl_time": "2026-02-21 18:20:51"
 }
 
 ----- CONTENT -----
@@ -1295,4 +1295,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 51 - Tổng truy cập: 4.147.812
+Online: 18 - Tổng truy cập: 4.147.954

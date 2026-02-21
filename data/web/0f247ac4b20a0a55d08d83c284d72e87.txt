@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/noi-dung-tu-tuong-dao-duc/tu-tuong-ho-chi-minh-ve-thi-dua-yeu-nuoc-6789?categoryId=102000009",
-  "crawl_time": "2026-02-21 17:58:56"
+  "crawl_time": "2026-02-21 18:26:25"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-58
+26
  
 :
  
-56
+25
  
  
  
@@ -210,7 +210,6 @@ Tư tưởng thi đua yêu nước của Chủ tịch Hồ Chí Minh là sự v�
  
  
 Chia sẻ
- 
  
  
  

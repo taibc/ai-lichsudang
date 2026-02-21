@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/gia-tri-ho-chi-minh-voi-su-phat-trien-thoi-dai.html",
-  "crawl_time": "2026-02-21 17:51:22"
+  "crawl_time": "2026-02-21 18:22:07"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ Học viện Chính trị quốc gia Hồ Chí Minh
 
 
 26/08/2025 - 09:19 PM
- - 823 lượt xem
+ - 824 lượt xem
 
 
 
@@ -799,7 +799,7 @@ Hành trình trở thành người đảng viên cộng sản của Nguyễn Ái
 
 
 
-15/01/2026 - 730 lượt xem
+15/01/2026 - 731 lượt xem
         
 
 
@@ -853,7 +853,7 @@ Tìm hiểu tư tưởng Hồ Chí Minh về giáo dục
 
 
 
-24/10/2025 - 2.109 lượt xem
+24/10/2025 - 2.110 lượt xem
         
 
 
@@ -1587,4 +1587,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 67 - Tổng truy cập: 4.147.828
+Online: 42 - Tổng truy cập: 4.147.987

@@ -1,13 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/tac-pham-cua-ho-chi-minh/ho-chi-minh-tuyen-tap?categoryId=102001159",
-  "crawl_time": "2026-02-21 18:28:07"
+  "url": "https://hochiminh.vn/tac-pham-cua-ho-chi-minh/tac-pham-cua-ho-chi-minh?categoryId=102001158",
+  "crawl_time": "2026-02-21 18:28:47"
 }
 
 ----- CONTENT -----
 
-Hồ Chí Minh tuyển tập
+Tác phẩm của Hồ Chí Minh
 
 
 
@@ -133,7 +133,7 @@ Giới thiệu tác phẩm
  
  
  
-Hồ Chí Minh tuyển tập (1954 - 1969) - Tập 3 (Nxb Chính trị quốc gia - 2002)
+Nhật ký trong tù
  
  
  
@@ -146,7 +146,7 @@ Hồ Chí Minh tuyển tập (1954 - 1969) - Tập 3 (Nxb Chính trị quốc gi
  
  
  
-Hồ Chí Minh tuyển tập (1945 - 1954) - Tập 2 (Nxb Chính trị quốc gia - 2002)
+ĐƯỜNG CÁCH MỆNH
  
  
  
@@ -159,7 +159,7 @@ Hồ Chí Minh tuyển tập (1945 - 1954) - Tập 2 (Nxb Chính trị quốc gi
  
  
  
-Hồ Chí Minh tuyển tập (1919 - 1945) - Tập 1 (Nxb Chính trị quốc gia - 2002)
+Di chúc của Chủ tịch Hồ Chí Minh
  
  
  

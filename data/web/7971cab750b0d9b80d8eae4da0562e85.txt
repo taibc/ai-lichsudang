@@ -1,13 +1,13 @@
 ----- METADATA -----
 {
   "source": "hochiminh.vn",
-  "url": "https://hochiminh.vn/tu-lieu-audio",
-  "crawl_time": "2026-02-21 18:29:01"
+  "url": "https://hochiminh.vn/cuoc-doi-su-nghiep",
+  "crawl_time": "2026-02-21 18:27:00"
 }
 
 ----- CONTENT -----
 
-Tư liệu Audio
+Cuộc đời, sự nghiệp
 
 
 
@@ -92,11 +92,11 @@ Thứ bảy, 21/02/2026
  
 :
  
-29
+27
  
 :
  
-01
+00
  
  
  
@@ -158,8 +158,251 @@ Làm theo Bác từ những việc thiết thực
 
  
  
+ 
+ 
+Cuộc đời, sự nghiệp
+ 
+
+
+ 
+
+
+ 
+Tiểu sử Hồ Chí Minh
+ 
+ 
+ 
+Biên niên Tiểu sử Hồ Chí Minh
+ 
+ 
+ 
+ 
+
+
+ 
+Vận dụng tư tưởng Hồ Chí Minh trong xây dựng đội ngũ cán bộ người dân tộc thiểu số ở Nghệ An
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  Trong suốt cuộc đời hoạt động cách mạng, Chủ tịch Hồ Chí Minh luôn dành sự quan tâm đặc biệt đến vùng đồng bào dân tộc thiểu số và miền núi, đồng thời Người luôn nhấn mạnh yêu cầu phát triển đội ngũ cán bộ ở khu vực này. Là tỉnh có đông đồng bào dân tộc thiểu số, Nghệ An đã quán triệt sâu sắc tư ... 
+ 
+Xem chi tiết
+ 
+ 
+ 
+ 
+ 
+Tiểu sử Chủ tịch Hồ Chí Minh (1890 - 1969)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  Chủ tịch Hồ Chí Minh (lúc nhỏ tên là Nguyễn Sinh Cung, khi đi học là Nguyễn Tất Thành, trong nhiều năm hoạt động cách mạng lấy tên là Nguyễn Ái Quốc và nhiều bí danh, bút danh khác) sinh ngày 19/5/1890 ở xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An; mất ngày 2/9/1969 tại Hà Nội. 
+ 
+Xem chi tiết
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tư liệu Video
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Việt Nam Hồ Chí Minh giữ trọn một con đường
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Hồ Chí Minh thắp sáng niềm tin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Giao lưu trực tuyến: Người là niềm tin tất thắng (Phần 2)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Giao lưu trực tuyến: Người là niềm tin tất thắng (Phần 1)
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tư liệu Ảnh
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tư liệu ảnh Chủ tịch Hồ Chí Minh với Tân Trào
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tư liệu ảnh Chủ tịch Hồ Chí Minh với quốc tế
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tư liệu ảnh Chủ tịch Hồ Chí Minh từ năm 1954 - 1969
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Tư liệu Audio
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
 
 
  
@@ -168,23 +411,12 @@ Tư liệu Audio
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
  
  
   Hồ Chí Minh, Chủ tịch lâm thời nước Việt Nam dân chủ cộng hòa, đọc bản “Tuyên ngôn độc lập” ngày 2/9/1945 tại Quảng trường Ba Đình 
  
- Đã xem: 306
  
  
  
@@ -193,13 +425,16 @@ Tư liệu Audio
  
 
 
+
+
+ 
+
+
  
  
  
- 
- 
- 
- 
+
+
  
  
   Chủ tịch Hồ Chí Minh đọc lời kêu gọi toàn quốc kháng chiến (ngày 19/12/1946) 
@@ -210,8 +445,18 @@ Tư liệu Audio
  
  
  
+
+
+
+
+ 
+
+
  
  
+ 
+
+
  
  
   Chủ tịch Hồ Chí Minh nói chuyện tại cuộc mít tinh của nhân dân thủ đô Hà Nội sau khi kỳ họp Quốc hội khóa I thông qua bản Hiến pháp mới (ngày 31/12/1959) 
@@ -222,8 +467,18 @@ Tư liệu Audio
  
  
  
+
+
+
+
+ 
+
+
  
  
+ 
+
+
  
  
   Ngày 5/1/1960, tại Thủ đô Hà Nội, Chủ tịch Hồ Chí Minh đã phát biểu tại Lễ kỷ niệm 30 năm thành lập Đảng Cộng sản Việt Nam (3/2/1930 - 3/2/1960) 
@@ -234,204 +489,12 @@ Tư liệu Audio
  
  
  
+
+
  
  
- 
- 
-  Chủ tịch Hồ Chí Minh nói chuyện tại Đại hội Phụ nữ toàn quốc lần thứ III (ngày 9/3/1960) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc chống Mỹ cứu nước (ngày 17/7/1966) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Bác Hồ chúc mừng năm mới Mậu Thân 1968 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Bác Hồ chúc mừng năm mới Kỷ Dậu 1969 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời kêu gọi “Chống Mỹ cứu nước” 1966 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Hồ Chủ tịch chúc mừng năm mới 1955 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Hồ Chủ tịch chúc Tết năm 1956 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc mừng năm mới 1957 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc mừng năm mới 1958 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc Tết đồng bào nhân dịp đầu đầu xuân Tân Sửu 1961 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Hồ Chủ tịch chúc Xuân Nhâm Dần 1962 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Quý Mão 1963 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc Tết đồng bào nhân dịp đầu Xuân Giáp Thìn 1964 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc mừng năm mới 1967 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Lời chúc mừng năm mới 1968 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Diễn văn khai mạc Đại hội đại biểu toàn quốc lần III của Đảng Lao động Việt Nam 1960 (phần I) 
- 
- 
- 
- 
-1
-2
-3
-4
-5
- 
- 
- 
- 
+
+
 
 
 

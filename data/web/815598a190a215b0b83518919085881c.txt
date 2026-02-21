@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/phat-trien-kinh-te-o-viet-nam-1986-2021-chu-truong-va-mot-so-thanh-tuu.html",
-  "crawl_time": "2026-02-21 17:50:01"
+  "crawl_time": "2026-02-21 18:21:46"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ Viện Lịch sử Đảng, Học viện Chính trị quốc gia Hồ Chí Minh
 
 
 25/10/2024 - 09:03 PM
- - 67.592 lượt xem
+ - 67.595 lượt xem
 
 
 
@@ -1819,4 +1819,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 30 - Tổng truy cập: 4.147.791
+Online: 36 - Tổng truy cập: 4.147.981

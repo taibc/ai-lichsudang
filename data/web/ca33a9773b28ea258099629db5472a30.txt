@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/hoc-va-lam-theo-bac/thay-ha-trong-binh-dau-an-hoc-va-lam-theo-loi-bac-tu-nhung-viec-lam-cu-the.html",
-  "crawl_time": "2026-02-21 17:57:19"
+  "crawl_time": "2026-02-21 18:26:32"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-57
+26
  
 :
  
-19
+32
  
  
  
@@ -221,7 +221,6 @@ Từ những việc làm cụ thể, thiết thực, thầy giáo Hà Trọng B�
  
  
 Chia sẻ
- 
  
  
  

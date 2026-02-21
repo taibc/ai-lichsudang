@@ -15,7 +15,13 @@ START_URLS = [
     "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh.html",
     "https://hochiminh.vn/cuoc-doi-su-nghiep",
     "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh",
-    "https://dangcongsan.vn/xay-dung-dang"
+    "https://dangcongsan.vn/xay-dung-dang",
+    "https://dangcongsan.vn/tin-hoat-dong"
+]
+
+DYNAMIC_DOMAINS = [
+    "hochiminh.vn",
+    "dangcongsan.vn"
 ]
 
 ALLOWED_DOMAINS = [
@@ -33,6 +39,8 @@ KEYWORDS = [
     "Đại hội",
     "Cách mạng",
     "lịch sử Đảng",
+    "bác Hồ",
+    "Đảng cộng sản",
     "biên niên"
 ]
 
@@ -92,6 +100,10 @@ def save_article(text, metadata):
         f.write(text)
 
     print(f"Saved: {filepath}")
+
+def is_dynamic_site(url):
+    domain = urlparse(url).netloc
+    return any(d in domain for d in DYNAMIC_DOMAINS)
 
 def fetch_html(url):
     if "hochiminh.vn" in url:

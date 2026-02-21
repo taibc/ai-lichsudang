@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/cuoc-doi-su-nghiep/tieu-su-ho-chi-minh",
-  "crawl_time": "2026-02-21 17:57:33"
+  "crawl_time": "2026-02-21 18:27:51"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-57
+27
  
 :
  
-33
+51
  
  
  

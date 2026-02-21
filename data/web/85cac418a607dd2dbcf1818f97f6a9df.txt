@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/phong-trao-cong-san.html",
-  "crawl_time": "2026-02-21 17:27:18"
+  "crawl_time": "2026-02-21 18:21:39"
 }
 
 ----- CONTENT -----
@@ -546,7 +546,7 @@ Một số giải pháp xây dựng hệ thống chính trị trong điều ki�
 
 
 
-30/06/2025 - 1.356 lượt xem
+30/06/2025 - 1.357 lượt xem
         
 
 
@@ -1619,4 +1619,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 150 - Tổng truy cập: 4.147.694
+Online: 32 - Tổng truy cập: 4.147.977

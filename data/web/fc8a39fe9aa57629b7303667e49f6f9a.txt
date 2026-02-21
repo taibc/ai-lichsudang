@@ -2,7 +2,7 @@
 {
   "source": "hochiminh.vn",
   "url": "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/suy-ngam-ve-bat-bien-trong-phuong-cham-di-bat-bien-ung-van-bien-tu-tu-tuong-ngoai-giao-ho-chi-minh.html",
-  "crawl_time": "2026-02-21 17:55:42"
+  "crawl_time": "2026-02-21 18:28:28"
 }
 
 ----- CONTENT -----
@@ -88,15 +88,15 @@ Thứ bảy, 21/02/2026
  
  - 
  
-17
+18
  
 :
  
-55
+28
  
 :
  
-42
+27
  
  
  
@@ -358,7 +358,6 @@ Nguyên Thứ trưởng Bộ Ngoại giao
  
  
 Chia sẻ
- 
  
  
  
