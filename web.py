@@ -16,9 +16,10 @@ question = st.text_input("💬 Nhập câu hỏi của anh:")
 
 context = build_context(
     web_urls=[
-        "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html",
-        "https://vnexpress.net/thoi-su/dai-hoi-dang-toan-quoc-lan-thu-14/van-kien"
-       
+       # "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html",
+       # "https://vnexpress.net/thoi-su/dai-hoi-dang-toan-quoc-lan-thu-14/van-kien"
+       "https://tapchilichsudang.vn/",
+       "https://dangcongsan.vn/"
         
     ],
     youtube_urls=[
