@@ -19,6 +19,7 @@ context = build_context(
        # "https://vnexpress.net/trien-khai-nghi-quyet-va-kien-toan-nhan-su-sau-dai-hoi-xiv-5010791.html",
        # "https://vnexpress.net/thoi-su/dai-hoi-dang-toan-quoc-lan-thu-14/van-kien"
        "https://tapchilichsudang.vn/",
+       "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh.html",
        "https://dangcongsan.vn/"
         
     ],
