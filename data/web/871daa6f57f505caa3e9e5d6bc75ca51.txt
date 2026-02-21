@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/hoi-phan-de-dong-minh-hien-thuc-hoa-tu-tuong-ho-chi-minh-ve-khoi-dong-luc-dan-toc-viet-nam.html",
-  "crawl_time": "2026-02-21 12:54:49"
+  "crawl_time": "2026-02-21 17:50:08"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ Học viện Chính trị quốc gia Hồ Chí Minh
 
 
 05/11/2025 - 08:05 PM
- - 993 lượt xem
+ - 994 lượt xem
 
 
 
@@ -796,7 +796,7 @@ Tầm nhìn của Nguyễn Ái Quốc trong lựa chọn Cao Bằng khi trở v�
 
 
 
-28/01/2026 - 445 lượt xem
+28/01/2026 - 448 lượt xem
         
 
 
@@ -823,7 +823,7 @@ Hành trình trở thành người đảng viên cộng sản của Nguyễn Ái
 
 
 
-15/01/2026 - 727 lượt xem
+15/01/2026 - 730 lượt xem
         
 
 
@@ -850,7 +850,7 @@ Tìm hiểu tư tưởng Hồ Chí Minh về giáo dục
 
 
 
-24/10/2025 - 2.105 lượt xem
+24/10/2025 - 2.108 lượt xem
         
 
 
@@ -877,7 +877,7 @@ Thêm một số ý kiến liên quan đến quan điểm của Hồ Chí Minh v
 
 
 
-27/09/2025 - 1.286 lượt xem
+27/09/2025 - 1.288 lượt xem
         
 
 
@@ -1611,4 +1611,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 35 - Tổng truy cập: 4.146.478
+Online: 38 - Tổng truy cập: 4.147.799

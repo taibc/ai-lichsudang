@@ -5,6 +5,7 @@ import os
 import time
 import hashlib
 import json
+from playwright.sync_api import sync_playwright
 
 # -----------------------------
 # CONFIG
@@ -12,12 +13,15 @@ import json
 
 START_URLS = [
     "https://tapchilichsudang.vn/nghien-cuu-ho-chi-minh.html",
-    "https://dangcongsan.vn/"
+    "https://hochiminh.vn/cuoc-doi-su-nghiep",
+    "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh",
+    "https://dangcongsan.vn/xay-dung-dang"
 ]
 
 ALLOWED_DOMAINS = [
     "tapchilichsudang.vn",
-    "dangcongsan.vn"
+    "dangcongsan.vn",
+    "hochiminh.vn"
 ]
 
 MAX_ARTICLES_PER_SOURCE = 30
@@ -40,6 +44,19 @@ HEADERS = {
 # -----------------------------
 # UTILITIES
 # -----------------------------
+
+def fetch_with_playwright(url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+
+        page.goto(url, timeout=30000)
+        page.wait_for_timeout(3000)  # wait for JS render
+
+        html = page.content()
+        browser.close()
+
+    return html
 
 def is_allowed_domain(url):
     domain = urlparse(url).netloc
@@ -76,6 +93,12 @@ def save_article(text, metadata):
 
     print(f"Saved: {filepath}")
 
+def fetch_html(url):
+    if "hochiminh.vn" in url:
+        return fetch_with_playwright(url)
+
+    res = requests.get(url, headers=HEADERS, timeout=10)
+    return res.text
 
 # -----------------------------
 # MAIN CRAWL LOGIC
@@ -85,8 +108,10 @@ def crawl_source(start_url):
     print(f"\nCrawling source: {start_url}")
 
     try:
-        res = requests.get(start_url, headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(res.text, "html.parser")
+        # res = requests.get(start_url, headers=HEADERS, timeout=10)
+        # soup = BeautifulSoup(res.text, "html.parser")        
+        html = fetch_html(start_url)
+        soup = BeautifulSoup(html, "html.parser")
     except Exception as e:
         print("Error fetching:", e)
         return
@@ -105,8 +130,10 @@ def crawl_source(start_url):
             break
 
         try:
-            res = requests.get(link, headers=HEADERS, timeout=10)
-            page = BeautifulSoup(res.text, "html.parser")
+            # res = requests.get(link, headers=HEADERS, timeout=10)
+            # page = BeautifulSoup(res.text, "html.parser")
+            html = fetch_html(link)
+            page = BeautifulSoup(html, "html.parser")
             text = clean_text(page)
 
             if len(text) < 500:

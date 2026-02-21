@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/giao-duc-lich-su-dang.html",
-  "crawl_time": "2026-02-21 12:54:40"
+  "crawl_time": "2026-02-21 17:51:29"
 }
 
 ----- CONTENT -----
@@ -512,7 +512,7 @@ Trao đổi về ChatGPT với việc dạy và học học phần Lịch sử �
 
 
 
-13/05/2025 - 3.880 lượt xem
+13/05/2025 - 3.881 lượt xem
         
 
 
@@ -580,7 +580,7 @@ Học tập học phần Lịch sử Đảng Cộng sản Việt Nam của sinh 
 
 
 
-16/12/2024 - 5.284 lượt xem
+16/12/2024 - 5.285 lượt xem
         
 
 
@@ -614,7 +614,7 @@ Nâng cao chất lượng giảng dạy môn Lịch sử Đảng Cộng Sản Vi
 
 
 
-25/07/2024 - 3.534 lượt xem
+25/07/2024 - 3.535 lượt xem
         
 
 
@@ -682,7 +682,7 @@ Khái quát tình hình nghiên cứu về lịch sử quan hệ đối ngoại 
 
 
 
-18/05/2024 - 9.238 lượt xem
+18/05/2024 - 9.239 lượt xem
         
 
 
@@ -1560,4 +1560,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 31 - Tổng truy cập: 4.146.474
+Online: 70 - Tổng truy cập: 4.147.831

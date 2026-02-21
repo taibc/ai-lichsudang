@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/phong-trao-cong-san.html",
-  "crawl_time": "2026-02-21 12:55:08"
+  "crawl_time": "2026-02-21 17:27:18"
 }
 
 ----- CONTENT -----
@@ -512,7 +512,7 @@ Chiến sĩ cách mạng Liên Xô V.Vaxilieva  với cách mạng Việt Nam
 
 
 
-30/10/2025 - 519 lượt xem
+30/10/2025 - 520 lượt xem
         
 
 
@@ -580,7 +580,7 @@ Một số kinh nghiệm lãnh đạo công tác đào tạo của Đảng bộ 
 
 
 
-29/04/2025 - 1.065 lượt xem
+29/04/2025 - 1.066 lượt xem
         
 
 
@@ -614,7 +614,7 @@ Trung Quốc xây dựng giai cấp nông dân thông qua phát triển kinh t�
 
 
 
-29/04/2025 - 2.973 lượt xem
+29/04/2025 - 2.975 lượt xem
         
 
 
@@ -648,7 +648,7 @@ Những đóng góp của Quốc tế Cộng sản đối với cách mạng Vi�
 
 
 
-11/12/2024 - 22.428 lượt xem
+11/12/2024 - 22.434 lượt xem
         
 
 
@@ -682,7 +682,7 @@ V.I.Lênin với việc xây dựng, củng cố bộ máy Đảng, Nhà nước
 
 
 
-25/11/2023 - 2.567 lượt xem
+25/11/2023 - 2.568 lượt xem
         
 
 
@@ -748,7 +748,7 @@ Mối quan hệ của Đảng Cộng sản Đông Dương với Đảng Cộng s
 
 
 
-18/06/2023 - 4.126 lượt xem
+18/06/2023 - 4.127 lượt xem
         
 
 
@@ -817,7 +817,7 @@ Cách mạng tháng mười Nga và sự nghiệp xây dựng và bảo vệ t�
 
 
 
-18/11/2020 - 1.095 lượt xem
+18/11/2020 - 1.099 lượt xem
         
 
 
@@ -882,7 +882,7 @@ Quốc tế Cộng sản với xây dựng nền tảng tư tưởng của Đả
 
 
 
-03/06/2020 - 934 lượt xem
+03/06/2020 - 936 lượt xem
         
 
 
@@ -1619,4 +1619,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 44 - Tổng truy cập: 4.146.487
+Online: 150 - Tổng truy cập: 4.147.694

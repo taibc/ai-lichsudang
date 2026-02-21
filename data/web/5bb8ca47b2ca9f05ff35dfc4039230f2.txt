@@ -2,7 +2,7 @@
 {
   "source": "tapchilichsudang.vn",
   "url": "https://tapchilichsudang.vn/dan-toc-viet-nam-buoc-phai-chien-dau-chong-de-quoc-my-xam-luoc-giai-phong-mien-nam-thong-nhat-dat-nuoc.html",
-  "crawl_time": "2026-02-21 12:55:13"
+  "crawl_time": "2026-02-21 17:26:57"
 }
 
 ----- CONTENT -----
@@ -499,7 +499,7 @@ Danh mục Những vấn đề chung 1
 
 
 21/05/2023 - 10:41 AM
- - 63.779 lượt xem
+ - 63.799 lượt xem
 
 
 
@@ -760,7 +760,7 @@ Các bài viết khác
 
 
 
-03/02/2026 - 202 lượt xem
+03/02/2026 - 205 lượt xem
         
 
 
@@ -841,7 +841,7 @@ Nhận thức của Đảng đối với việc tranh thủ sự giúp đỡ c�
 
 
 
-07/11/2025 - 1.082 lượt xem
+07/11/2025 - 1.083 lượt xem
         
 
 
@@ -1575,4 +1575,4 @@ Bộ Thông tin và Truyền thông
             
 
 
-Online: 46 - Tổng truy cập: 4.146.489
+Online: 142 - Tổng truy cập: 4.147.686
