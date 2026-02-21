@@ -1,0 +1,23 @@
+name: Crawl Data
+
+on:
+  schedule:
+    - cron: "0 2 * * 0"  # Weekly
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Run crawler
+        run: python crawl.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@example.com"
+          git add data/
+          git commit -m "Update crawl data" || echo "No changes"
+          git push

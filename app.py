@@ -1,112 +1,127 @@
-import requests
-from bs4 import BeautifulSoup
-import os
+import streamlit as st
+import faiss
+import numpy as np
+import json
 from openai import OpenAI
-from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled
-import re
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# -----------------------------
+# CONFIG
+# -----------------------------
 
-def load_websites(urls: list[str]) -> str:
-    texts = []
+EMBED_MODEL = "text-embedding-3-small"
+CHAT_MODEL = "gpt-4o-mini"
+TOP_K = 5
 
-    for url in urls:
-        resp = requests.get(url, timeout=10)
-        soup = BeautifulSoup(resp.text, "html.parser")
+client = OpenAI()
 
-        # bỏ script, style
-        for tag in soup(["script", "style", "noscript"]):
-            tag.decompose()
+# -----------------------------
+# LOAD VECTOR STORE
+# -----------------------------
 
-        text = soup.get_text(separator=" ", strip=True)
-        texts.append(text)
+@st.cache_resource
+def load_vector_store():
+    index = faiss.read_index("vector_store/index.faiss")
 
-    return "\n".join(texts)
+    with open("vector_store/metadata.json", "r", encoding="utf-8") as f:
+        store = json.load(f)
 
-def extract_video_id(url: str) -> str | None:
-    match = re.search(r"(v=|youtu.be/)([^&?/]+)", url)
-    return match.group(2) if match else None
+    chunks = store["chunks"]
+    metadata = store["metadata"]
+
+    return index, chunks, metadata
 
 
-def load_youtube(video_urls: list[str]) -> str:
-    texts = []
+index, chunks, metadata = load_vector_store()
 
-    for url in video_urls:
-        video_id = extract_video_id(url)
-        if not video_id:
-            print("❌ Không extract được video_id:", url)
-            continue
+# -----------------------------
+# EMBED QUERY
+# -----------------------------
 
-        try:
-            transcript = YouTubeTranscriptApi.get_transcript(
-                video_id, languages=["vi", "en"]
-            )
-            texts.append(" ".join(item["text"] for item in transcript))
-            print("✅ Loaded transcript for:", video_id)
-
-        except Exception as e:
-            print("❌ Failed to load transcript:", video_id, str(e))
-
-    return "\n".join(texts)
-
-def build_context(web_urls=None, youtube_urls=None) -> str:
-    parts = []
-
-    if web_urls:
-        parts.append(load_websites(web_urls))
-
-    if youtube_urls:
-        parts.append(load_youtube(youtube_urls))
-
-    return "\n".join(parts)
-
- 
-
-def ask_llm(context: str, question: str) -> str:
-    
-    
-    prompt = f"""
-Bạn là một AI tra cứu thông tin KHÉP KÍN.
-
-QUY TẮC BẮT BUỘC:
-- CHỈ được sử dụng thông tin trong <CONTEXT>
-- TUYỆT ĐỐI KHÔNG sử dụng kiến thức bên ngoài
-- Nếu thông tin không có trong CONTEXT, hãy trả lời đúng nguyên văn:
-  "Không tìm thấy thông tin trong các nguồn đã cấu hình."
-
-<CONTEXT>
-{context}
-</CONTEXT>
-
-Câu hỏi: {question}
-"""
-
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}]
+def embed_query(query):
+    response = client.embeddings.create(
+        model=EMBED_MODEL,
+        input=query
     )
+    return np.array(response.data[0].embedding, dtype="float32").reshape(1, -1)
 
-    return response.choices[0].message.content
+
+# -----------------------------
+# RETRIEVE CONTEXT
+# -----------------------------
+
+def retrieve_context(query):
+    query_vector = embed_query(query)
+
+    distances, indices = index.search(query_vector, TOP_K)
+
+    results = []
+    for i in indices[0]:
+        results.append({
+            "text": chunks[i],
+            "metadata": metadata[i]
+        })
+
+    return results
 
 
-def ask_llm_public(context: str, question: str) -> str:
-    
-    
-    prompt = f"""
-Chỉ trả lời dựa trên thông tin sau:
+# -----------------------------
+# GENERATE ANSWER
+# -----------------------------
 
-{context}
+def generate_answer(query, contexts):
+    context_text = "\n\n".join([c["text"] for c in contexts])
 
-Câu hỏi: {question}
+    system_prompt = """
+You are a political-history research assistant.
+Answer based only on provided context.
+If information is not in context, say you do not know.
+Cite sources by referencing their domain.
+"""
+
+    user_prompt = f"""
+Context:
+{context_text}
+
+Question:
+{query}
 """
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        temperature=0,
+        model=CHAT_MODEL,
         messages=[
-            {"role": "system", "content": "You are a closed-domain question answering system."},
-            {"role": "user", "content": prompt}
-        ]
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        temperature=0.2
     )
 
     return response.choices[0].message.content
+
+
+# -----------------------------
+# STREAMLIT UI
+# -----------------------------
+
+st.set_page_config(page_title="Political History Research AI")
+st.title("📚 Political History Research AI")
+
+query = st.text_input("Ask a question about political history:")
+
+if query:
+    with st.spinner("Searching..."):
+        contexts = retrieve_context(query)
+        answer = generate_answer(query, contexts)
+
+    st.subheader("Answer")
+    st.write(answer)
+
+    st.subheader("Sources")
+
+    shown = set()
+    for c in contexts:
+        source = c["metadata"].get("source", "unknown")
+        url = c["metadata"].get("url", "")
+
+        if url not in shown:
+            st.markdown(f"- **{source}**: {url}")
+            shown.add(url)
